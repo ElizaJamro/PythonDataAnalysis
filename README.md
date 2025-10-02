@@ -18,7 +18,7 @@ The main goal is to explore sales and profit trends, analyze product and custome
 ---
 
 ## 📂 Repository Structure
-├── superstore_analysis.ipynb # Extended python file with code      
+├── superstore_analysis.py # Extended python file with code      
 ├── analysis.md # Business insights report (textual summary)      
 └── README.md # Project description      
 
