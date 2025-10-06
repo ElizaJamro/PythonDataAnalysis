@@ -21,6 +21,7 @@ The main goal of this project is to explore sales and profit trends, analyze pro
 ├── superstore_analysis.py # Extended python file with code      
 ├── analysis.md # Business insights report (textual summary)      
 ├── Sample - Superstore.csv # Raw data      
+├── Images  # Charts 
 └── README.md # Project description      
 
 ---
