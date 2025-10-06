@@ -86,9 +86,9 @@ Sales distribution by shipping mode:
 - **Second Class** and **First Class:** moderate performance  
 - **Same Day:** lowest sales (but premium offering)
 
-Standard Class shipping offers the **best sales-profit balance**, indicating strong **logistics efficiency**.
+Standard Class shipping offers the **best sales-profit balance**, indicating strong **logistics efficiency**.      
 
-![Sales_by_Shipping_Mode](images/Sales_by_Shipping_Mode.png.png)
+![Sales_by_Shipping_Mode](images/Sales_by_Shipping_Mode.png)      
 ![Profit_by_Shipping_Mode](images/Profit_by_Shipping_Mode.png)
 ---
 
