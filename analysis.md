@@ -95,7 +95,7 @@ Standard Class shipping offers the **best sales-profit balance**, indicating str
 ## 10. Top Customers by Profit
 Profit distribution among top-performing customers:
 - **Tamara Chand**, **Raymond Buch**, and **Sanjit Chand** are the most profitable clients  
-- A small group of customers drives a **disproportionate share of total profit** (Pareto effect)  
+- A small group of customers drives a **disproportionate share of total profit** -> the top 10 customers generate 15.62% of total profit. 
 - Indicates strong **customer loyalty** and **repeat purchasing behavior** among high-value clients  
 - Recommendation: Implement **loyalty or premium programs** to strengthen relationships and increase retention
 ![Top_10_Customers_by_Profit](images/Top_10_Customers_by_Profit.png)
