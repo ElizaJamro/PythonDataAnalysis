@@ -63,9 +63,10 @@ This suggests that **higher sales generally lead to higher profit**, but **incre
 The relationship between **discount levels** and **average profit** is **strongly negative**.  
 As discounts increase, profits drop sharply — especially beyond a **0.3–0.5 discount level**, where profits turn **negative**.
 
-![Average_Profit_vs_Discount_Level](images/Average_Profit_vs_Discount_Level.png)
+![Average_Profit_vs_Discount_Level](images/Average_Profit_vs_Discount_Level.png)      
 
-📉 **Conclusion:** Tighter discount policies are needed to prevent margin erosion.
+**Conclusion**: Tighter discount policies are needed to prevent margin erosion.
+
 ---
 
 ## 8. Sales by Day of the Week
