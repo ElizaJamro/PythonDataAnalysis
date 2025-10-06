@@ -3,7 +3,7 @@ Personal project: analyzing and visualizing data with Python
 # Superstore Sales Analysis
 
 This project is an in-depth analysis of the **[Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)**.  
-The main goal is to explore sales and profit trends, analyze product and customer performance, and provide actionable business insights.
+The main goal of this project is to explore sales and profit trends, analyze product and customer performance, and generate actionable business insights — while practicing data analysis in Python using raw dataset.
 
 ---
 
